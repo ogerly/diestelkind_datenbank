@@ -10,8 +10,7 @@ wieviele davon noch aktuell sind .. kann ich nicht sagen ..
 
 ## Video Archiv der Mahnwachen in Deutschland, Österreich und Schweiz nach Datum und Ort sortiert. 
 
-
-[code]
+ 
 
       
       CREATE TABLE IF NOT EXISTS `group` (
@@ -35,4 +34,4 @@ wieviele davon noch aktuell sind .. kann ich nicht sagen ..
       ) ENGINE=InnoDB  
       --DEFAULT CHARSET=utf8 AUTO_INCREMENT=8 ;
 
-[/code]
+ 

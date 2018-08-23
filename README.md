@@ -35,4 +35,5 @@ Nach Ort und Datum sortiert ..
  
 ## Das war mal das Projekt
 
-[linkname](https://youtu.be/PlcGsR37mgM?list=UU2a_xWdewXYpmCu5zqTIUGg)
+[Zum Video](https://youtu.be/PlcGsR37mgM)
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/PlcGsR37mgM/0.jpg)](http://www.youtube.com/watch?v=PlcGsR37mgM "Video Title")
